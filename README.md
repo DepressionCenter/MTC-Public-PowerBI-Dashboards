@@ -3,7 +3,7 @@
 # Mobile Tech Core - Public Power BI Dashboards
 
 ## Description
-Public-facing Power BI reports and dashboards created by the Mobile Technologies Core.
+PowerBI dashboard templates and examples for research teams.
 
 
 
