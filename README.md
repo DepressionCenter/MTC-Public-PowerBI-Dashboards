@@ -3,7 +3,9 @@
 # Mobile Tech Core - Public Power BI Dashboards
 
 ## Description
-PowerBI dashboard templates and examples for research teams.
+MTC Public Power BI Dashboards is a planned public collection of Microsoft Power BI dashboard templates and examples for research teams. Its goal is to provide reusable starting points for study operations, reporting, and research administration.
+
+The repository currently contains the project README and does not yet include dashboard files. Star or watch the repository for future templates, or contribute an anonymized Power BI example that other research teams can adapt.
 
 
 
